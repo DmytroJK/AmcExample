@@ -24,9 +24,9 @@ namespace IsPointInsideConvexPolygon
                 resultRotate = rotate(array[i, 0], array[i, 1], array[i + 1, 0], array[i + 1, 1], numbers[0], numbers[1]);
 
 
-                //add some comment "> to <"
+                //add some comment 
 
-                if (resultRotate < 0)
+                if (resultRotate > 0)
                     p++;
                 else if (resultRotate < 0)
                     c++;
@@ -41,8 +41,9 @@ namespace IsPointInsideConvexPolygon
                 p++;
             else if (resultRotate < 0)
                 c++;
-
-            //delete one choice else if (resultRotate == 0) zero++;
+            else if (resultRotate == 0)
+                zero++;
+            
 
             if (p+zero == numbers[2] || c+zero == numbers[2])
                 Console.Write(1);
