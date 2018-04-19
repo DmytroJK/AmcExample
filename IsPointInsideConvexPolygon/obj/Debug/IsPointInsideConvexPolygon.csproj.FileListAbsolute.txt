@@ -1,0 +1,6 @@
+E:\MyProjects\AMC\GCD\IsPointInsideConvexPolygon\IsPointInsideConvexPolygon\bin\Debug\IsPointInsideConvexPolygon.exe.config
+E:\MyProjects\AMC\GCD\IsPointInsideConvexPolygon\IsPointInsideConvexPolygon\bin\Debug\IsPointInsideConvexPolygon.exe
+E:\MyProjects\AMC\GCD\IsPointInsideConvexPolygon\IsPointInsideConvexPolygon\bin\Debug\IsPointInsideConvexPolygon.pdb
+E:\MyProjects\AMC\GCD\IsPointInsideConvexPolygon\IsPointInsideConvexPolygon\obj\Debug\IsPointInsideConvexPolygon.csprojResolveAssemblyReference.cache
+E:\MyProjects\AMC\GCD\IsPointInsideConvexPolygon\IsPointInsideConvexPolygon\obj\Debug\IsPointInsideConvexPolygon.exe
+E:\MyProjects\AMC\GCD\IsPointInsideConvexPolygon\IsPointInsideConvexPolygon\obj\Debug\IsPointInsideConvexPolygon.pdb
