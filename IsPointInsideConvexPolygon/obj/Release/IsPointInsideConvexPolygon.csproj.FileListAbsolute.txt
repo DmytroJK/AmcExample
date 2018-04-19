@@ -1,0 +1,5 @@
+E:\MyProjects\AMC\GCD\IsPointInsideConvexPolygon\IsPointInsideConvexPolygon\bin\Release\IsPointInsideConvexPolygon.exe.config
+E:\MyProjects\AMC\GCD\IsPointInsideConvexPolygon\IsPointInsideConvexPolygon\bin\Release\IsPointInsideConvexPolygon.exe
+E:\MyProjects\AMC\GCD\IsPointInsideConvexPolygon\IsPointInsideConvexPolygon\bin\Release\IsPointInsideConvexPolygon.pdb
+E:\MyProjects\AMC\GCD\IsPointInsideConvexPolygon\IsPointInsideConvexPolygon\obj\Release\IsPointInsideConvexPolygon.exe
+E:\MyProjects\AMC\GCD\IsPointInsideConvexPolygon\IsPointInsideConvexPolygon\obj\Release\IsPointInsideConvexPolygon.pdb
